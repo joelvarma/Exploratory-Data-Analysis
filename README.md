@@ -13,7 +13,7 @@ Violin plots give you 25th, 50th(Median), 75th quartile of the data plus it give
 
 ### Simple Violinplot:
 
-Screenshot%202019-01-12%20at%208.56.17%20AM.png
+![alt text](https://cdn-images-1.medium.com/max/2000/1*dlLAJ_R1x-1wJG14baaC9w.png)
 
 ### Numpy
 Numpy is Numerical Python library for doing high level math computations involving complex data structures like matrices
