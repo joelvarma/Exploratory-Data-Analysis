@@ -9,7 +9,7 @@ Pandas is a great library for Data Science. It provides high level abstraction i
 Seaborn is another important package for visualizing the data, it provides one line python functions to plot the data similiar to MatPlotLib in MATLab except Matplotlib is not useful in some cases for visualizing where seaborn compensates this lack. Seaborn has great visualising tools like Violinplots for making better inference from the data.
 
 ### Why Violoinplot
-Violin plots give you 25th, 50th(Median), 75th quartile of the data plus it gives you Probability Density Function This link from Khan academy gives you awesome explanation of what it is!
+Violin plots give you 25th, 50th(Median), 75th quartile of the data plus it gives you Probability Density Function(Khan academy gives you awesome explanation of what it is!)
 
 ### Simple Violinplot:
 
